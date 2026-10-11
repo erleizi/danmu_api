@@ -830,6 +830,9 @@ API 支持返回 Bilibili 标准 XML 格式的弹幕数据，通过查询参数 
 
 [喂饭教程3：使用Netlify反向代理巴哈姆特api，实现danmu_api项目国内直连获取巴哈姆特弹幕](https://github.com/wan0ge/bahamut-api-proxy)
 
+
+<!-- chore: 切换 Cloudflare 构建源至本仓库后触发一次重建，无功能变更 -->
+
 [喂饭教程4：使用Vercel搭建万能反向代理，部署后请绑定自定义域名使用](https://github.com/souying/vercel-api-proxy)
 
 [喂饭教程5：非常详细的 danmu_api 图文教程](https://bks.indevs.in)
